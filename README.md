@@ -1,7 +1,7 @@
 [![CI](https://github.com/ggjulio/poc_dockerize_nestjs/actions/workflows/ci.yml/badge.svg)](https://github.com/ggjulio/poc_dockerize_nestjs/actions/workflows/ci.yml)
 
 
-### ft_transcendence
+## 42 - ft_transcendence
 
 #### getting started
 Download the repo :
