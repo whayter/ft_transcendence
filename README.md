@@ -4,11 +4,11 @@
 ## 42 - ft_transcendence
 
 #### getting started
-Download the repo :
+Download the repository:
 ```bash
 git clone https://github.com/Working-From-Home/ft_transcendence.git && cd ft_transcendence
 ```
-Create a `.env` file, template example:
+Create a `.env` file as follows:
 ```
 ACCESS_TOKEN_SECRET=my_secret
 REFRESH_TOKEN_SECRET=my_secret2
@@ -48,12 +48,12 @@ PGADMIN_DEFAULT_PASSWORD=qwerty
 
 ```
 
-Then build and run all services :
+Then build and run all services:
 ```bash
 docker-compose up --build
 ```
 Then to either run tests, use vue/nest cli, install packages, or use node,
-open a new zsh in one of the container :
+open a new zsh in one of the container:
 ```bash
 docker-compose exec frontend zsh
 ```
